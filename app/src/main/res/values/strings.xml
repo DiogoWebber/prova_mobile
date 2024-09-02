@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AMANDA DIOGO</string>
+    <string name="reservar">Reservar</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="mesa_1">Mesa 1</string>
+    <string name="salvar">Salvar</string>
+    <string name="mesa_2">Mesa 2</string>
+    <string name="mesa_3">Mesa 3</string>
+    <string name="mesa_4">Mesa 4</string>
+    <string name="mesa_5">Mesa 5</string>
+    <string name="mesa_6">Mesa 6</string>
+
+</resources>
